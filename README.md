@@ -1,1 +1,1 @@
-# string-knitter
+# iamge-knitter
