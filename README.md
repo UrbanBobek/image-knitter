@@ -1,1 +1,1 @@
-# iamge-knitter
+# image-knitter
